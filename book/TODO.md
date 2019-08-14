@@ -1,6 +1,6 @@
 # TODO
 
 - [x] GitBook
-- [ ] GitPitch
+- [x] GitPitch ([slides](https://gitpitch.com/NoriSte/gitbook-cli-test?p=slides))
 - [ ] code integration
 - [ ] publish process test
