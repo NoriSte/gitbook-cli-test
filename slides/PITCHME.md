@@ -22,6 +22,13 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 @snapend
 
 ---?code=../__tests__/index.test.js
+---?code=./../__tests__/index.test.js
+---?code=__tests__/index.test.js
+---?code=https://github.com/NoriSte/gitbook-cli-test/blob/master/__tests__/index.test.js
+---?code=../__tests__/index.test.js&lang=js
+---?code=./../__tests__/index.test.js&lang=js
+---?code=__tests__/index.test.js&lang=js
+---?code=https://github.com/NoriSte/gitbook-cli-test/blob/master/__tests__/index.test.js&lang=js
 
 ---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
 @title[Add A Little Imagination]
